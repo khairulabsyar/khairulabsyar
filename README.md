@@ -19,3 +19,4 @@ Hi, My name is Khairul Absyar
 
 <a href="http://www.github.com/khairulabsyar"><img src="https://github-stats-one-bice.vercel.app/api?username=khairulabsyar&include_all_commits=true&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khairulabsyar's GitHub stats" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=khairulabsyar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
