@@ -3,7 +3,7 @@ Hi, My name is Khairul Absyar
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * ✉️  You can contact me at [khairulabsyar@gmail.com](mailto:khairulabsyar@gmail.com)
-* 🧠  I'm learning Next.js App Router & Typescript
+* 🧠  I'm learning Node.js & Typescript
 
 
 ### Socials
